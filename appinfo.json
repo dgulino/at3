@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "drew.gulino@gmail.com",
+    "enableMultiJS": false,
+    "longName": "AT3",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "AT3",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "59710e00-b1ea-411e-8c03-be13f9cac402",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
